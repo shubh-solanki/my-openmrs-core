@@ -65,6 +65,7 @@ public class AdministrationServiceTest extends BaseContextSensitiveTest {
 	 * class to private variables The "@Before" method in {@link BaseContextSensitiveTest} is run
 	 * right before this method and sets up the initial data set and authenticates to the Context
 	 * 
+	 *
 	 */
 	@Before
 	public void runBeforeEachTest() {
